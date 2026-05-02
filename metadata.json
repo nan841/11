@@ -1,0 +1,7 @@
+{
+  "name": "Claude Style Excel Viewer",
+  "description": "Drag and drop Excel/CSV files to view and translate product data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
+
